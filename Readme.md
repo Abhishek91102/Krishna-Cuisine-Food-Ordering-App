@@ -29,3 +29,11 @@ Pick a dish, add to cart, place order, get delivered.
 2. Run ```npm init```
 3. Run ```npm run start```.
 4. Make sure you've allow CORS extension installed in your browser .
+
+5. ![313604656-41915b8d-62d7-457a-910c-9dd5fc2932ec](https://github.com/user-attachments/assets/e7c35777-1fde-473d-9d2d-6c0c64b5e85d)
+6. ![313604700-a73828bd-053f-40ee-ba47-f084059e5b7c](https://github.com/user-attachments/assets/c7661127-23d3-43e4-abca-b9b3a748d83b)
+7. ![313604749-4b5ccd5f-1208-48d6-8078-ee09a2fa1d7e](https://github.com/user-attachments/assets/6dffdc29-3a3c-4896-8f5e-2e30af1f015c)
+8. ![313604796-08e09598-c5c9-4098-9512-e3d39caa7bf1](https://github.com/user-attachments/assets/0c006e5f-670e-412d-b45f-5b11bf62cfaa)
+
+
+
